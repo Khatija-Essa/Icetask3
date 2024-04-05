@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378808578881",
+    "project_id": "icetask3-748fe",
+    "storage_bucket": "icetask3-748fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378808578881:android:83b2c6a3eecb0a203427c0",
+        "android_client_info": {
+          "package_name": "com.example.icetask3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzXdFZyq5IdIrKYvTm4GsTUrAwf0c2rWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
